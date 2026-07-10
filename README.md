@@ -14,7 +14,7 @@ A market-intelligence and marketing-strategy case study evaluating how Vans coul
 The project combined secondary market research, customer segmentation, competitive analysis, positioning, marketing-mix development, implementation planning, and performance controls. The portfolio edition opens with a five-page executive market-intelligence brief and then presents a tightened narrative adaptation of the original marketing plan.
 
 **Project lead:** Brian Hunt  
-**Original context:** Undergraduate marketing plan project  
+**Original context:** Principles of Marketing course, Elon University  
 **Research period:** 2021
 
 ## Business question
