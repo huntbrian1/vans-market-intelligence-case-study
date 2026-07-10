@@ -4,8 +4,8 @@ A market-intelligence and marketing-strategy case study evaluating how Vans coul
 
 > **Historical scope:** This analysis reflects the original 2021 research period. Market facts, competitive conditions, and recommendations should be interpreted in that context.
 
-[View the full portfolio case study (PDF)](./Vans_Market_Strategy_2021_Portfolio-3.pdf)  
-[Download the editable Word version](./Vans_Market_Strategy_2021_Portfolio-2.docx)
+[View the full portfolio case study (PDF)](./Vans_Market_Strategy_2021_Portfolio.pdf)  
+[Download the editable Word version](./Vans_Market_Strategy_2021_Portfolio.docx)
 
 ![First page of the Vans market expansion case study](./assets/case-study-preview.png)
 
@@ -46,8 +46,8 @@ Vans' strongest path was not maximum category reach. It was disciplined adjacenc
 
 ## Repository contents
 
-- `Vans_Market_Strategy_2021_Portfolio-3.pdf` - portfolio-ready 11-page case study
-- `Vans_Market_Strategy_2021_Portfolio-2.docx` - editable source document
+- `Vans_Market_Strategy_2021_Portfolio.pdf` - portfolio-ready 11-page case study
+- `Vans_Market_Strategy_2021_Portfolio.docx` - editable source document
 - `assets/case-study-preview.png` - first-page preview used in this README
 
 ## Disclaimer
